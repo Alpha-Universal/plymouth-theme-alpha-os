@@ -1,0 +1,14 @@
+alphaOSfinal.png /usr/share/plymouth/themes/alpha-os
+alpha-os.grub /usr/share/plymouth/themes/alpha-os
+alpha-os.plymouth /usr/share/plymouth/themes/alpha-os
+alpha-os.script /usr/share/plymouth/themes/alpha-os
+fsck-fade_16bit.png /usr/share/plymouth/themes/alpha-os
+fsck-fade.png /usr/share/plymouth/themes/alpha-os
+passw-dialog.png /usr/share/plymouth/themes/alpha-os
+progress_dot_off.png /usr/share/plymouth/themes/alpha-os
+progress-fade_16bit.png /usr/share/plymouth/themes/alpha-os
+progress-fade.png /usr/share/plymouth/themes/alpha-os
+progress-meter_16bit.png /usr/share/plymouth/themes/alpha-os
+progress-meter.png /usr/share/plymouth/themes/alpha-os
+spinner.png /usr/share/plymouth/themes/alpha-os
+test.png /usr/share/plymouth/themes/alpha-os

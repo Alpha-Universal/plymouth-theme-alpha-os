@@ -1,0 +1,14 @@
+Source: plymouth-theme-alpha-os
+Section: gnome
+Priority: optional
+Maintainer: Richard Buchanan II <richard@alpha.store>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: https://github.com/alpha-universal/plymouth-theme-alpha-os
+
+Package: plymouth-theme-alpha-os
+Architecture: all
+Depends: plymouth, plymouth-label, ${misc:Depends}
+Description: Plymouth boot theme for Alpha OS. 
+ This package changes the current Plymouth boot theme to the official
+ Alpha OS theme.
